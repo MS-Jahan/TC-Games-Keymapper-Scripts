@@ -4,3 +4,4 @@ Config Dir: `C:\Users\{user}\AppData\Roaming\Sigma-RT\TC Games\resource\game\use
 
 1. [PUBG Lite](https://github.com/MS-Jahan/TC-Games-Keymapper-Scripts/blob/main/com.tencent.iglite.properties)
 2. [Mini Militia](https://github.com/MS-Jahan/TC-Games-Keymapper-Scripts/blob/main/com.appsomniacs.da2.properties)
+3. [Call Of Duty Mobile](https://github.com/MS-Jahan/TC-Games-Keymapper-Scripts/blob/main/com.activision.callofduty.shooter.properties)
